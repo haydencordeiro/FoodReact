@@ -1,0 +1,40 @@
+body{
+  background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+  min-height:100vh;
+  min-height: 10vh;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.search{
+  min-height: 10vh;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bar
+{border-radius: 25px;
+  width: 50%;
+  border: none;
+  align-items: center;
+  height:30px;
+  margin-right: 10px;
+  
+}
+
+.btn
+{
+  
+  border-radius: 25px;
+  background:blue;
+  border:none;
+  padding: 10px 20px;
+  color:white
+}
